@@ -599,6 +599,14 @@
             }
         },
         {
+            "Key": "dfe95543-3fd5-42e8-9b92-e096202c5f8e",
+            "Value": {
+                "id": "ad467f67-f17a-4d31-8f54-364df2bb7629",
+                "resourcePath": "objects\\score_print\\score_print.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e592a21d-a2c4-4543-aeda-ef49754ed027",
             "Value": {
                 "id": "5019a5e4-f19a-4f0b-b44e-0e065e63aad8",
